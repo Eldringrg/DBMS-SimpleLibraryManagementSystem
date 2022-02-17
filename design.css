@@ -1,0 +1,104 @@
+
+h1{
+    border:solid lightgray;
+    border-radius:15px;
+    border-style:ridge;
+    padding:30px;
+    margin-left:200px;
+    margin-right:200px;
+     color:orange;
+     background-image: linear-gradient(135deg, rgba(19, 176, 223, 0.26) 0%, rgba(19, 176, 223, 0.26) 23%,rgba(16, 160, 197, 0.26) 23%, rgba(16, 160, 197, 0.26) 65%,rgba(13, 144, 172, 0.26) 65%, rgba(13, 144, 172, 0.26) 70%,rgba(9, 129, 146, 0.26) 70%, rgba(9, 129, 146, 0.26) 74%,rgba(6, 113, 121, 0.26) 74%, rgba(6, 113, 121, 0.26) 90%,rgba(3, 97, 95, 0.26) 90%, rgba(3, 97, 95, 0.26) 100%),linear-gradient(45deg, rgba(65, 234, 230, 0.26) 0%, rgba(65, 234, 230, 0.26) 28%,rgba(88, 192, 215, 0.26) 28%, rgba(88, 192, 215, 0.26) 55%,rgba(110, 150, 201, 0.26) 55%, rgba(110, 150, 201, 0.26) 66%,rgba(133, 107, 186, 0.26) 66%, rgba(133, 107, 186, 0.26) 80%,rgba(155, 65, 172, 0.26) 80%, rgba(155, 65, 172, 0.26) 85%,rgba(178, 23, 157, 0.26) 85%, rgba(178, 23, 157, 0.26) 100%),linear-gradient(90deg, rgb(27, 194, 246) 0%, rgb(27, 194, 246) 6%,rgb(39, 174, 237) 6%, rgb(39, 174, 237) 32%,rgb(50, 155, 229) 32%, rgb(50, 155, 229) 40%,rgb(62, 135, 220) 40%, rgb(62, 135, 220) 66%,rgb(74, 116, 211) 66%, rgb(74, 116, 211) 72%,rgb(86, 96, 202) 72%, rgb(86, 96, 202) 86%,rgb(97, 77, 194) 86%, rgb(97, 77, 194) 96%,rgb(109, 57, 185) 96%, rgb(109, 57, 185) 100%);
+    text-align:center;
+}
+#info{
+    border:solid peachpuff;
+    border-radius:15px;
+    border-style:ridge;
+    padding:60px ;
+    padding-left:350px;
+    color:orange;
+    background-image: linear-gradient(135deg, rgba(19, 176, 223, 0.26) 0%, rgba(19, 176, 223, 0.26) 23%,rgba(16, 160, 197, 0.26) 23%, rgba(16, 160, 197, 0.26) 65%,rgba(13, 144, 172, 0.26) 65%, rgba(13, 144, 172, 0.26) 70%,rgba(9, 129, 146, 0.26) 70%, rgba(9, 129, 146, 0.26) 74%,rgba(6, 113, 121, 0.26) 74%, rgba(6, 113, 121, 0.26) 90%,rgba(3, 97, 95, 0.26) 90%, rgba(3, 97, 95, 0.26) 100%),linear-gradient(45deg, rgba(65, 234, 230, 0.26) 0%, rgba(65, 234, 230, 0.26) 28%,rgba(88, 192, 215, 0.26) 28%, rgba(88, 192, 215, 0.26) 55%,rgba(110, 150, 201, 0.26) 55%, rgba(110, 150, 201, 0.26) 66%,rgba(133, 107, 186, 0.26) 66%, rgba(133, 107, 186, 0.26) 80%,rgba(155, 65, 172, 0.26) 80%, rgba(155, 65, 172, 0.26) 85%,rgba(178, 23, 157, 0.26) 85%, rgba(178, 23, 157, 0.26) 100%),linear-gradient(90deg, rgb(27, 194, 246) 0%, rgb(27, 194, 246) 6%,rgb(39, 174, 237) 6%, rgb(39, 174, 237) 32%,rgb(50, 155, 229) 32%, rgb(50, 155, 229) 40%,rgb(62, 135, 220) 40%, rgb(62, 135, 220) 66%,rgb(74, 116, 211) 66%, rgb(74, 116, 211) 72%,rgb(86, 96, 202) 72%, rgb(86, 96, 202) 86%,rgb(97, 77, 194) 86%, rgb(97, 77, 194) 96%,rgb(109, 57, 185) 96%, rgb(109, 57, 185) 100%);
+    margin-right:200px;
+    margin-left:200px;
+}
+#g{
+    border:solid black;
+    border-radius:10px;
+    margin-top:15px;
+    margin-bottom:-2px;
+    margin-left:190px;
+    padding:15px;
+    color:orange;
+
+}
+#g:hover{
+    background-color:skyblue;
+
+}
+#a{
+padding:10px;
+}
+#b{
+    padding:10px;
+    margin-left:30px;
+}
+#c{
+    padding:10px;
+    margin-left:32px;
+}
+#d{
+    padding:10px; 
+    margin-left:10px;
+}
+#e{
+    padding:10px;
+    margin-left:50px;  
+}
+#f{
+    padding:10px;
+    margin-left:17px;
+}
+h2{
+    padding-left:122px;
+}
+body{
+    background-image: radial-gradient(circle at top center, rgba(17, 201, 137,0.15) 0%, rgba(17, 201, 137,0.15) 6%,transparent 6%, transparent 54%,transparent 54%, transparent 93%,rgba(48, 184, 210,0.15) 93%, rgba(48, 184, 210,0.15) 100%),radial-gradient(circle at top right, rgba(17, 201, 137,0.15) 0%, rgba(17, 201, 137,0.15) 2%,transparent 2%, transparent 19%,transparent 19%, transparent 36%,rgba(48, 184, 210,0.15) 36%, rgba(48, 184, 210,0.15) 100%),radial-gradient(circle at top right, rgba(17, 201, 137,0.15) 0%, rgba(17, 201, 137,0.15) 1%,transparent 1%, transparent 2%,transparent 2%, transparent 11%,rgba(48, 184, 210,0.15) 11%, rgba(48, 184, 210,0.15) 100%),radial-gradient(circle at center center, rgba(17, 201, 137,0.15) 0%, rgba(17, 201, 137,0.15) 13%,transparent 13%, transparent 59%,transparent 59%, transparent 67%,rgba(48, 184, 210,0.15) 67%, rgba(48, 184, 210,0.15) 100%),linear-gradient(90deg, hsl(38,64%,92%),hsl(38,64%,92%)); background-size: 111px 111px;
+}
+b{
+    font-size: larger;
+}
+#hi{
+    border:solid black;
+    border-radius:10px;
+    margin-left:730px;
+    padding:15px;
+    color:orange;
+
+}
+#hi:hover{
+    background-color:skyblue;
+
+}
+#wing{
+color:orange;
+margin-left:500px;
+padding:20px;
+font-size: large;
+}
+#ola{
+margin-left:750px;
+}
+#jack{
+padding:10px;
+border:solid black;
+border-radius:10px;
+}
+#max{
+padding:10px;
+border:solid black;
+border-radius:10px;
+color:orange;
+}
+#max:hover{
+    background-color: skyblue;
+}
